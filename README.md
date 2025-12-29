@@ -32,7 +32,7 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin
 
 &nbsp;  Terminali açıp aşşağıdaki kodları yazın
 
-&nbsp;  git clone \[https://github.com/Brostez/FindYourFriend.git](https://github.com/Brostez/FindYourFriend.git)
+&nbsp;  git clone https://github.com/Brostez/FindYourFriend.git
 
 &nbsp;  cd FindYourFriend
 
@@ -72,7 +72,7 @@ Sisteme @mersin.edu.tr uzantılı mail ile giriş isteği gönderir.
 
 
 
-Invoke-RestMethod -Uri "\[http://127.0.0.1:5000/api/login](http://127.0.0.1:5000/api/login)" -Method Post -ContentType "application/json" -Body '{"email": "berat@mersin.edu.tr"}'
+Invoke-RestMethod -Uri "http://127.0.0.1:5000/api/login" -Method Post -ContentType "application/json" -Body '{"email": "berat@mersin.edu.tr"}'
 
 
 
@@ -82,7 +82,7 @@ Haritaya yeni bir etkinlik pini bırakır. (Örn: Satranç).
 
 
 
-Invoke-RestMethod -Uri "\[http://127.0.0.1:5000/api/create\_event](http://127.0.0.1:5000/api/create\_event)" -Method Post -ContentType "application/json" -Body '{"kullanici": "berat@mersin.edu.tr", "aktivite": "Satranc", "konum": "Kutuphane Onu"}'
+Invoke-RestMethod -Uri "http://127.0.0.1:5000/api/create_event" -Method Post -ContentType "application/json" -Body '{"kullanici": "berat@mersin.edu.tr", "aktivite": "Satranc", "konum": "Kutuphane Onu"}'
 
 
 
@@ -96,7 +96,7 @@ Veya terminalden:
 
 
 
-Invoke-RestMethod -Uri "\[http://127.0.0.1:5000/api/list\_events](http://127.0.0.1:5000/api/list\_events)" -Method Get
+Invoke-RestMethod -Uri "http://127.0.0.1:5000/api/list_events" -Method Get
 
 
 
