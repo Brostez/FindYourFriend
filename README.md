@@ -30,7 +30,7 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin
 
 1\. \*\*Projeyi Klonlayın:\*\*
 
-&nbsp;  Terminali açıp aşağıdaki kodları yazın
+&nbsp;  Terminali açıp aşşağıdaki kodları yazın
 
 &nbsp;  git clone \[https://github.com/Brostez/FindYourFriend.git](https://github.com/Brostez/FindYourFriend.git)
 
@@ -39,6 +39,8 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin
 
 
 2\. \*\*Sanal Ortamı Oluşturun ve Aktif Edin:\*\*
+
+&nbsp;  Kurulan dosyayı açın ve dosyaya sağ tıklayıp terminali açıp aşağıdaki kodları yazın
 
 &nbsp;  python -m venv venv
 
@@ -86,7 +88,7 @@ Invoke-RestMethod -Uri "\[http://127.0.0.1:5000/api/create\_event](http://127.0.
 
 3\. \*\*Etkinlikleri Listeleme (List Events)\*\*
 
-Oluşturulan etkinlikleri görmek için tarayıcınızdan şu adrese gidebilirsiniz: http://127.0.0.1:5000/api/list\_events
+Oluşturulan etkinlikleri görmek için tarayıcınızdan şu adrese gidebilirsiniz: http://127.0.0.1:5000/api/list_events
 
 
 
