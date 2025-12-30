@@ -8,7 +8,7 @@ Bu proje, \*\*Yazılım Modelleme ve Proje Yönetimi\*\* dersi kapsamında geli�
 
 
 
-![Flyer](docs/flyer.png)
+![Flyer](docs/Flyer.png)
 
 ## 📊 Yazılım Modelleme ve Diyagramlar
 
@@ -16,10 +16,12 @@ Projenin teknik ve mantıksal tasarımı aşağıda detaylandırılmıştır.
 
 ### 1. Akış Diyagramı (Flowchart)
 Kullanıcının sisteme giriş yapmasından, etkinlik oluşturup eşleşme sağlamasına kadar olan süreç:
+
 ![Akış Diyagramı](docs/akis_diyagrami.png)
 
 ### 2. Use Case (Kullanım Durumu) Şeması
 Öğrenci aktörünün sistem üzerindeki yetenekleri ve etkileşimleri:
+
 ![Use Case Şeması](docs/use_case.png)
 
 ---
