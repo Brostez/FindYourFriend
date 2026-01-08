@@ -136,19 +136,19 @@ requirements.txt: Gerekli kütüphane listesi.
 
 👥 Proje Ekibi
 
-Berat Yıldız - Proje Yöneticisi \& Backend Developer
+Berat Yıldız - Proje Yöneticisi \& Backend Developer - 23430070072
 
 
 
-Mehmet Bekir Sürmeli - UI/UX Tasarım
+Mehmet Bekir Sürmeli - UI/UX Tasarım - 23430070052
 
 
 
-Acar Efe Yaman - Mobil Geliştirme
+Acar Efe Yaman - Mobil Geliştirme - 23430070049
 
 
 
-Ayşe Pelin Demirel - Veritabanı \& Analiz
+Ayşe Pelin Demirel - Veritabanı \& Analiz - 23430070038
 
 ---------------------------------------------------
 
